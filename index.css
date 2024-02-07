@@ -1,0 +1,343 @@
+*{
+    padding:0px;
+    margin:0px;
+}
+.nav1{
+  
+    height: 120px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-color:solid yellow;
+    border-width: 100px;
+
+}
+.celebrare{
+    display:inline;
+    color: grey;
+    cursor: pointer;
+    font-family: 'Dancing Script';
+    padding:12px;
+    margin-left: 223px;
+    text-decoration: none;
+    font-size:30px;
+}
+.nav1{
+    width: 100%;
+    left: 0;
+    top: 0;
+    display: flex;
+    flex-direction: row;
+    background: #fff;
+    border-bottom: 1px solid rgba(0,0,0,.1);
+    z-index: 20;
+}
+.language-signup{
+    padding-right: 48px;
+    margin-right:143px;
+}
+.login{
+    margin-left: 46px;
+    margin-right:46px;
+    border-radius:9px;
+    
+}
+.login{
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 22px;
+    color: #007663;
+    background: #fff;
+    border-radius: 6px;
+    padding: 0.3rem 2.2rem;
+    border: 3px solid #007663;
+    outline: 0;
+    transition: transform .4s ease-in-out;
+    cursor: pointer;
+}
+#language{
+    color: #000;
+    font-size: 0.8rem;
+    font-weight: 500;
+
+}
+.wedding-invitation{
+    display:flex;
+    color: black;
+    cursor: pointer;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding:12px;
+    margin-left: 223px;
+    text-decoration: none;
+    font-size:15px;
+    width: 100%;
+    left: 0;
+    top: 0;
+    display: flex;
+    flex-direction: row;
+    background: #fff;
+    border-bottom: 1px solid rgba(0,0,0,.1);
+    z-index: 20;
+    height:55px;
+}  
+#login{
+    margin-left: 46px;
+    margin-right:46px;
+    border-radius:9px;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 22px;
+    color: #fff;
+    background:#007663;
+    border-radius: 6px;
+    padding: 0.3rem 2.2rem;
+    border: 3px solid #007663;
+    outline: 0;
+    transition: transform .4s ease-in-out;
+    cursor: pointer;
+    align-items: center;
+}
+.playstore-section-title{
+    color:#000;
+    text-decoration: none;
+}
+.image-container picture img {
+    aspect-ratio: 2/3;
+    width: 23%;
+    margin: 1%;
+    border-radius: 5px;
+    overflow: hidden;
+    height: auto;
+    box-shadow: 0 0 5px rgba(0,0,0,.6);
+    height: 100px;
+    width: 90px; 
+
+}  
+.image-outer-container{
+    height: 450px;
+    width: 400px;
+    border-radius: 23px;
+    margin-left: 46px;
+}
+
+.main-image-container{
+    display:flex;
+}
+.image-outer-container{
+    display: flex;
+}
+.design-tips-container{
+    height:350px;
+    width:400px;
+    display:block;
+    padding: 45px;
+    margin: 46px;
+}
+.content-section{
+    margin-left: 146px;
+    height:40px;
+    width:100%;
+}
+.playstore-section-title{
+    padding-top:45px;
+} 
+.playstore-title{
+    color:black;
+    font-size: larger;
+    padding-top: 23px;
+}
+.playstore-content{
+   height:100px;
+    width:446px;
+    display:flex;
+    padding: 23px;
+    margin: 23px;
+    column-gap: 123px;
+    row-gap: 120px;
+}
+.design-tips{
+    color: #000;
+    text-align: center;
+    font-size: 29px;
+    padding-bottom:92px;
+    padding:3px;
+    margin:2px;
+    height:25px;
+    width:300px;
+}
+.how-create-msg{
+    color:#007663 ;
+    text-align: center;
+    font-size: large;
+}
+.tutorial-btn{
+    color:#007663 ;
+    text-align: center;
+    font-size: large;
+   align-items: center;
+}
+.tutorial-btn1{
+    margin-left:73px;
+     margin-right:13px;
+     padding-right:13px;
+     align-items: center;
+}
+.design-tips-container{
+    padding:3px;
+    margin:2px;
+    height:25px;
+    width:300px;
+    border-color: black;
+    border-width: 55px;
+}
+.invite-types-title  {
+    font-size: 32px;
+    line-height: 39px;
+    text-align: center;
+    color: #0d0d0d;
+
+}
+.invites{
+    color:#007663
+}
+.invitation{
+
+    font-size: larger;
+}
+.pdf-type-title{
+    height: 35px;
+   align-items: center;
+   text-align: centre;
+   padding-right:10px;
+   margin-right:25px
+}
+.video-type-invite{
+    text-align: center;
+    margin-left: 25px;
+    margin-left: 123px;
+    padding-right: 350px;  
+} 
+.image-invitation{
+    display:inline-flex;
+    padding-right: 11px;
+    margin-left: 15px;
+    padding-left: 20px;
+}
+.video-invitation{
+    padding-left:35px;
+    padding-bottom:13px;
+    margin-bottom: 23px;  
+}  
+.video-event{
+    height: 444px;
+    width: 118vh;
+   padding-left: -12px; 
+    margin-right:1px;
+}
+.image-event{
+    height: 444px;
+    width: 444px;
+}
+.category-content-pdf{
+    display:inline-flex;
+    padding-right: 23px;
+    margin-right: 55px;
+}
+.wed-invite{
+    margin-top: 3px;
+}
+.wed-invite{
+
+    align-content: center;
+    align-items: center;
+    margin-right: 35px;
+    padding-left:323px;
+}
+.wedding-invite{
+    color:#007663;
+    font-size: larger;
+}
+#card-section{
+    display:flex;
+    padding-top:56px;
+    margin-left:1px;
+    background-color:#fff;
+    height:230px;
+    width:500px;
+}
+#card-section{
+    padding-left:123px;
+    column-gap: 23px;
+    background-color:aquamarine;
+    margin-left: 132px;
+}
+#forward-section{
+    margin-top: 36px;
+    padding-left: 350px;
+
+
+}
+.create-now{
+    padding: 13px;
+    margin-left: 13px;
+    color: #007663;
+    border-color:#007663;
+    font-size: larger;
+}
+.watch-tutorial{
+    padding: 13px;
+    margin-left: 13px;
+    background-color: #007663;
+    font-size:larger;
+}
+.testimonial{
+    align-content: center;
+    align-items: center;
+    margin-top: 43px;
+    margin-left: 343px;
+}
+.words-from-our{
+    margin-left: 343px;
+}
+.chat{
+    margin-left: 343px;
+    margin-top: 85px; 
+}
+.chats{
+    color:#007663;
+}
+.smile-chat{
+    margin-left: 295px;
+    margin-top: 15px; 
+    color:grey;
+}
+.wp{
+    color:#007663; 
+    margin-left: 343px;
+    margin-top: 15px;
+    padding: 18px;
+    font-size: larger;
+}
+footer{
+    background-color: #007663;
+  --swiper-theme-color: #007aff;
+--swiper-navigation-size: 44px;
+--fa-style-family-brands: "Font Awesome 6 Brands";
+--fa-font-brands: normal 400 1em/1 "Font Awesome 6 Brands";
+--fa-font-regular: normal 400 1em/1 "Font Awesome 6 Free";
+--fa-style-family-classic: "Font Awesome 6 Free";
+--fa-font-solid: normal 900 1em/1 "Font Awesome 6 Free";
+font-family: Montserrat,sans-serif;
+box-sizing: border-box;
+-webkit-tap-highlight-color: transparent;
+display: flex!important;
+justify-content: center;
+align-items: center;
+background: #006151;
+flex-direction: column;
+gap: 1em;
+width: 100%;
+color: #fff!important;
+padding: 2em 0!important;
+margin: 0;
+}
